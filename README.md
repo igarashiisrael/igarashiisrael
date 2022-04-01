@@ -2,7 +2,8 @@
 
 - 🌱 Eu estou estudando Desenvolvimento Web Java.
 - 😄 Pronouns: (Ele/Dele/He)
-- 
+
+
 <div align="center">
   <a href="https://github.com/igarashiisrael">
   <img height="155cm" src="https://github-readme-stats.vercel.app/api?username=igarashiisrael&show_icons=true&theme=ocean_dark&include_all_commits=true&count_private=true"/>
