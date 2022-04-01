@@ -1,6 +1,7 @@
 ### Oii! Eu sou o Israel 
 
-- 🌱 Eu estou estudando Desenvolvimento Web Java.
+- 🌱 Estou estudando para me tornar um Desenvolvedor Web Fullstack, com foco em linguagem Java.
+- 🧑‍🎓 Participante da Turma 50 no Bootcamp "Pessoa Desenvolvedora Web - Generation Brasil 03/2022~ 06/2022"
 - 😄 Pronouns: (Ele/Dele/He)
 
 
