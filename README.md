@@ -5,8 +5,8 @@
 - 
 <div align="center">
   <a href="https://github.com/igarashiisrael">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=igarashiisrael&show_icons=true&theme=ocean_dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igarashiisrael&layout=compact&langs_count=7&theme=ocean_dark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=igarashiisrael&show_icons=true&theme=ocean_dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igarashiisrael&layout=compact&langs_count=7&theme=ocean_dark"/>
 </div>
   
   ##
@@ -22,7 +22,3 @@
  	<a href="https://www.twitch.tv/poppunkpig" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/israel-anacleto-igarashi-895483130" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </div>
-  
-  ##
-  
-    ![Snake animation](https://github.com/igarashiisrael/igarashiisrael/blob/output/github-contribution-grid-snake.svg)
