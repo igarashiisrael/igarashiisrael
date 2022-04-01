@@ -5,11 +5,11 @@
 - 
 <div align="center">
   <a href="https://github.com/igarashiisrael">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=igarashiisrael&show_icons=true&theme=ocean_dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igarashiisrael&layout=compact&langs_count=7&theme=ocean_dark"/>
+  <img height="155cm" src="https://github-readme-stats.vercel.app/api?username=igarashiisrael&show_icons=true&theme=ocean_dark&include_all_commits=true&count_private=true"/>
+  <img height="155cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igarashiisrael&layout=compact&langs_count=7&theme=ocean_dark"/>
 </div>
   
-  ##
+ ##
   
 <div style="display: inline_block"><br>
 <img align="center" alt="Rael-Java" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
