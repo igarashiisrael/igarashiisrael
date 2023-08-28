@@ -14,7 +14,7 @@
   <img height="150cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igarashiisrael&layout=compact&langs_count=7&theme=ocean_dark"/>
 </div>
   
-### Tecnologias que estou estudando:
+### Tecnologias que tenho experiência. / Technologies I have experience with.:
 <div style="display: inline_block"><br>
 
 
