@@ -1,7 +1,8 @@
 ### Hi! I'm Israel... 
 
-- 🌱 Atualmente estou cursando Bacharelado em Engenharia de Software, na FIAP / I am currently studying Bachelor of Software Engineering at FIAP.
+- 🌱 Atualmente cursando o 2º ano de Bacharelado em Engenharia de Software, na FIAP / I'm currently on 2º year Bachelor of Software Engineering at FIAP.
 - 👨‍💻 Trabalho como Desenvolvedor Fullstack na Saúde One Sistemas, voltado para o desenvolvimento de soluções para o setor de saúde. / I work as a Fullstack developer at Saúde One Sistemas, focused on developing solutions for the healthcare sector.
+- 2 anos de experiência com desenvolvimento de soluções .NET / Angular. / 2 years of experience development solutions with .NET and Angular.
 - 🎓 Formado na Turma 3 do bootcamp Oracle Next Education (290 horas), uma parceria Oracle + Alura, abordando Java, POO, HTML, CSS e Typescript. / Graduated in Class 3 of the Oracle Next Education bootcamp (290 hours), an Oracle + Alura partnership, covering Java, OOP, HTML, CSS and Typescript.
 - 🎓 Formado na turma 50 do Bootcamp "Pessoa Desenvolvedora Web - Generation Brasil 03/2022~ 06/2022 (447 horas), abordando Java/Springboot, POO e Angular". / Graduated in Class 50 at Bootcamp "Web Developer Person - Generation Brazil 2022/03 - 2022/06  (447 hours), covering Java/Springboot, OOP and Angular".
 - 🎓Bootcamp SpringBoot DevSuperior - Profº Nelio Alves.
